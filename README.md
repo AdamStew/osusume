@@ -1,3 +1,3 @@
 # osusume
 
-WIP
+Small for fun project.

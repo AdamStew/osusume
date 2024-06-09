@@ -1,0 +1,12 @@
+{
+  "printWidth": 120,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "semi": true,
+  "jsxSingleQuote": false,
+  "importOrder": ["<THIRD_PARTY_MODULES>", "^[./]"],
+  "importOrderParsePlugins": ["typescript", "decorators-legacy", "tsx", "jsx"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
